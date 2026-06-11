@@ -5,9 +5,9 @@
 // require './includes/main.php';
 ?>
 <?php
-// include 'coming-soon.php';
+include 'coming-soon.php';
 ?>
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -70,4 +70,4 @@
 
 </body>
 
-</html>
+</html> -->
