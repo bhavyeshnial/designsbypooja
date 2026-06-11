@@ -30,7 +30,7 @@
     <div class="container">
       <div class="left">
         <img src="assets/img/coming-soon-logo.png" class="logo" />
-        <div class="badge">🚀 Website Coming Soon</div>
+        <div class="badge">🚀 Website Coming  Soon our website</div>
         <h1>Crafting Designs That <span>Inspire</span></h1>
         <p>
           We are working on something creative and beautiful. Stay tuned for an
