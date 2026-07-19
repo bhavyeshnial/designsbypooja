@@ -1,8 +1,6 @@
-<?php 
- require "./config.php";
-
- include "./includes/header.php";
-
+<?php
+require_once __DIR__ . '/config.php';
+include __DIR__ . '/includes/header.php';
 ?>
     <main>
         <h1>git issue</h1>

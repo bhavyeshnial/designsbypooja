@@ -7,7 +7,7 @@
               class="logo"
               aria-label="Creative Design By Pooja Home"
             >
-              <img src="../assets/img/creativedesignsbypooja.png" alt="Creative Design By Pooja Logo"
+              <img src="<?= BASE_URL ?>assets/img/creativedesignsbypooja.png" alt="Creative Design By Pooja Logo"
                             loading="eager" fetchpriority="high" />
             </a>
             <p class="footer-desc">

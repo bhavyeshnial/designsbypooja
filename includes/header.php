@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Creative Design By Pooja</title>
-    <link rel="stylesheet" href="<?= BASE_URL ?>/assets/css/style.css" />
+    <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
 </head>
 
@@ -21,7 +21,7 @@
                     </button>
 
                     <a href="<?= BASE_URL ?>" aria-label="Creative Design By Pooja Home">
-                        <img src="<?= BASE_URL ?>/assets/img/creativedesignsbypooja.png" alt="Creative Design By Pooja Logo"
+                        <img src="<?= BASE_URL ?>assets/img/creativedesignsbypooja.png" alt="Creative Design By Pooja Logo"
                             loading="eager" fetchpriority="high" />
                     </a>
                 </div>
