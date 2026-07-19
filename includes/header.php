@@ -21,7 +21,7 @@
                     </button>
 
                     <a href="<?= BASE_URL ?>" aria-label="Creative Design By Pooja Home">
-                        <img src="<?= BASE_URL ?>/assets/img/creativedesignsbypooja.png" alt="Creative Design By Pooja Logo"
+                        <img src="./assets/img/creativedesignsbypooja.png" alt="Creative Design By Pooja Logo"
                             loading="eager" fetchpriority="high" />
                     </a>
                 </div>
