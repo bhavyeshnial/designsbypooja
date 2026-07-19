@@ -4,7 +4,7 @@ include __DIR__ . '/includes/header.php';
 ?>
 
 <main>
-    <h1>TEST GITHUB DEPLOY</h1>
+    <h1>Auto Deploy Test</h1>
 </main>
 
 <?php
