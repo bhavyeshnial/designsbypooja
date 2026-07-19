@@ -65,7 +65,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a href="#cta" class="nav-cta nav-link">
+                                <a href="https://api.whatsapp.com/send?phone=919004630046&text=Logo" class="nav-cta nav-link" aria-label="Get a Design">
                                 <i class="fa-solid fa-arrow-right-from-bracket" aria-hidden="true"></i>
                                 Get a Design
                             </a>
