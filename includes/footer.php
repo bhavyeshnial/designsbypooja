@@ -251,6 +251,6 @@
         </div>
       </div>
     </footer>
-    <script src="<?php= BASE_URL ?>/assets/js/script.js"></script>
+    <script src="<?php= BASE_URL ?>assets/js/script.js"></script>
 </body>
 </html>
