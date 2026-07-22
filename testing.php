@@ -56,17 +56,24 @@ include __DIR__ . '/includes/header.php';
                 <div class="banner-item">
                   <img src="./assets/img/dermaura.png" alt="" />
                 </div>
-                <!-- <div class="banner-item">
-                  <img src="./assets/img/dermaura.png" alt="" />
-                </div>
                 <div class="banner-item">
                   <img src="./assets/img/dermaura.png" alt="" />
                 </div>
                 <div class="banner-item">
                   <img src="./assets/img/dermaura.png" alt="" />
-                </div> -->
+                </div>
+                <div class="banner-item">
+                  <img src="./assets/img/dermaura.png" alt="" />
+                </div>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="container">
+          <div class="sectio-wrapper">
+            
           </div>
         </div>
       </section>
