@@ -408,6 +408,7 @@ border-radius: 5px;
     .hero-img {
         width: 100%;
         min-width: 0;
+        height:100% ;
     }
 
     /* Main Banner */
