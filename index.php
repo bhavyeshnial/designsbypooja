@@ -54,10 +54,10 @@ include __DIR__ . '/includes/header.php';
                 <div class="banner-item">
                   <img src="./assets/img/aa.png" alt="" />
                 </div>
-                <!-- <div class="banner-item">
+                <div class="banner-item">
                   <img src="./assets/img/dermaura.png" alt="" />
                 </div>
-                <div class="banner-item">
+                <!-- <div class="banner-item">
                   <img src="./assets/img/dermaura.png" alt="" />
                 </div>
                 <div class="banner-item">
